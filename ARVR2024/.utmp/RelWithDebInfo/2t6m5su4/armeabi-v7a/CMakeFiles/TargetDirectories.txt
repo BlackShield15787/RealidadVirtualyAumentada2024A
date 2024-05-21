@@ -1,0 +1,5 @@
+C:/Users/munoz/Desktop/Github/RealidadVirtual/RealidadVirtualyAumentada2024A/ARVR2024/.utmp/RelWithDebInfo/2t6m5su4/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/munoz/Desktop/Github/RealidadVirtual/RealidadVirtualyAumentada2024A/ARVR2024/.utmp/RelWithDebInfo/2t6m5su4/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/munoz/Desktop/Github/RealidadVirtual/RealidadVirtualyAumentada2024A/ARVR2024/.utmp/RelWithDebInfo/2t6m5su4/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/munoz/Desktop/Github/RealidadVirtual/RealidadVirtualyAumentada2024A/ARVR2024/.utmp/RelWithDebInfo/2t6m5su4/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/munoz/Desktop/Github/RealidadVirtual/RealidadVirtualyAumentada2024A/ARVR2024/.utmp/RelWithDebInfo/2t6m5su4/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
